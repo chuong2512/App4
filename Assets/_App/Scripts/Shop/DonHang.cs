@@ -12,8 +12,10 @@ public class SanPham
 {
     public int ID;
     public Sprite anh;
-    [HideInInspector] public Sprite anhHai;
+    public Sprite anhHai;
     public string thongTin;
     public string gia;
     public string name;
 }
+
+
